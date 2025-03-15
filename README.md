@@ -1,0 +1,1 @@
+This is a simple Hotel Booking Form built using Streamlit, a Python library for creating web applications. The application allows users to enter their booking details, such as name, customer ID, check-in/check-out dates, age, preferred course, and special requests. Upon submission, the entered data is displayed on the same page.
